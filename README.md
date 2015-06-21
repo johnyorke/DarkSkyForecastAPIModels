@@ -1,2 +1,2 @@
 # DarkSkyForecastAPIModels
-Objective C model wrappers for the Dark Sky API for use with [Mantle] (https://github.com/mantle "Mantle on GitHub").
+[Dark Sky weather API] (https://developer.forecast.io "Dark Sky API") model wrappers for use with [Mantle] (https://github.com/mantle "Mantle on GitHub").
